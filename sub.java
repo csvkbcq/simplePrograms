@@ -1,8 +1,8 @@
 public class sub {
     public static void main(String[] args) {
-        int a = 10;
-        int b = 5;
-        int result = a - b;
-        System.out.println("Subfetwrrw123tebgttt: " + result);
+        int x = 10;
+        int y = 5;
+        int res = x - y;
+        System.out.println("Subqrrw123tebgttt: " + res);
     }
 }
