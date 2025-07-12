@@ -3,6 +3,6 @@ public class sub {
         int a = 10;
         int b = 5;
         int result = a - b;
-        System.out.println("Subtrttt: " + result);
+        System.out.println("Subfetrttt: " + result);
     }
 }
